@@ -4,5 +4,5 @@
 
 ### Stats
 
-Started: December 19, 2020
+Started: December 19, 2020<br>
 Stopped: ----------------------------------------------------------------
